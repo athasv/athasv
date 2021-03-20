@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @athasv
+- 👀 I’m interested in problems and solutions.
+- 🌱 I’m currently learning some coding.
+- 💞️ I’m looking to collaborate on a nice idea.
+- 📫 How to reach me: via github probably.
